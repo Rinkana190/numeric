@@ -1,3 +1,5 @@
+//use it as you want absolute free
+
 jQuery.fn.ForceNumericOnly =
 function()
 {
